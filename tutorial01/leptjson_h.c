@@ -39,7 +39,7 @@ static int lept_parse_value(lept_context* c, lept_value* v){
 int lept_parse(lept_value* v, const char* json) {
     lept_context c;
     assert(v != NULL);
-    c,json = json;
+    c.json = json;
     v->type = LEPT_NULL;
     lept_parse_whitesparse(&c);
     return lept_parse_value(&c, v);
