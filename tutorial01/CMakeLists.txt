@@ -6,8 +6,7 @@ if (CMAKE_C_COMPILER_ID MATCHES "GNU|Clang")
 endif()
 
 add_library(leptjson leptjson.c
-        leptjson_h.h
-        leptjson_h.c
+        ../tutorial01_answer/test.c
 )
 add_executable(leptjson_test test.c)
 target_link_libraries(leptjson_test leptjson)

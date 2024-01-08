@@ -1,0 +1,4 @@
+/home/augooh/cpp/json-tutorial/tutorial02/cmake-build-debug/CMakeFiles/leptjson.dir
+/home/augooh/cpp/json-tutorial/tutorial02/cmake-build-debug/CMakeFiles/leptjson_test.dir
+/home/augooh/cpp/json-tutorial/tutorial02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/augooh/cpp/json-tutorial/tutorial02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
